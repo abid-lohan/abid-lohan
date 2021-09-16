@@ -32,13 +32,15 @@ I'm very into programming in general, web development and cyber security.
  
 ### Social
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/abid-lohan-457381215/">
+  <a href="https://www.linkedin.com/in/abid-lohan-457381215/" target="_blank">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://codepen.io/abid-lohan">
+  <a href="https://codepen.io/abid-lohan" target="_blank">
    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/Abid%20Lohan%233574-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="#">
+   <img src="https://img.shields.io/badge/Abid%20Lohan%233574-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 </div>
 
 
