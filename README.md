@@ -3,7 +3,7 @@
 
 
 <div style="display: inline_block">
-  <h2 align="left">Hello World! <span style="color:yellow">Abid Lohan</span> Here ✌️</h2>
+  <h2 align="left">Hello World! Abid Lohan Here ✌️</h2>
   <img align="right" src="https://cdn.discordapp.com/attachments/888101596796452937/888101793312157756/download20210904002817.png" alt="Anime profile" width="110px">
 </div>
 
@@ -15,10 +15,8 @@ I am very into programming, web development and cyber security.
 ```
 
 ### Web Development Technologies
-![alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg "HTML 5")
 <div style="display: inline_block">
  <a href="#">
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML 5" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS 3" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="ECMAScript" width="40px">
