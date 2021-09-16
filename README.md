@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/HQuBivfl9Z0AAAAC/error-glitch.gif" alt="Banner error" height="150px" width="498px" style="object-fit:cover;">
+<!-- <img src="https://c.tenor.com/HQuBivfl9Z0AAAAC/error-glitch.gif" alt="Banner error" height="150px" width="498px" style="object-fit:cover;"> -->
 
 <h2>Hello World! Abid Lohan here ✌️</h2>
 
