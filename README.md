@@ -1,12 +1,11 @@
 <!-- Insert a banner here -->
 
 <h2>Hi ✌️ Abid Lohan here!</h2>
-
-> $ whoami 
-<br>
-> I'm a 💻Computer Science and 🌠Physics student at UFRJ. 
-<br>
-> I'm very into programming in general, web development and cyber security.
+```
+$ whoami 
+I'm a 💻Computer Science and 🌠Physics student at UFRJ. 
+I'm very into programming in general, web development and cyber security.
+```
 
 ### Web Development Technologies
 <div style="display: inline_block">
