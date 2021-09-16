@@ -1,6 +1,4 @@
-<!-- <img src="https://c.tenor.com/HQuBivfl9Z0AAAAC/error-glitch.gif" alt="Banner error" height="150px" width="498px" style="object-fit:cover;"> -->
-
-
+<img src="https://cdn.discordapp.com/attachments/888101596796452937/888111742658420777/ezgif.com-gif-maker.gif" alt="Banner error" width="100%">
 
 <div style="display: inline_block">
   <h2 align="left">Hello World! Abid Lohan Here ✌️</h2>
