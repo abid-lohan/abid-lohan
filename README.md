@@ -1,7 +1,7 @@
-### Hi, Abid Lohan here!
+<h1>Hi, Abid Lohan here!</h1>
 
-<h1>Web Development Technologies</h1>
-
+<h2>Web Development Technologies</h2>
+<div style="display: inline_block">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML 5" width="40px">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS 3" width="40px">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="ECMAScript" width="40px">
@@ -11,7 +11,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" alt="jQuery" width="40px">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="40px">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg" alt="Spring" width="40px">
-
+</div>
  
  
 
