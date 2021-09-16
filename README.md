@@ -3,13 +3,11 @@
 <h2>Hello World! Abid Lohan here ✌️</h2>
 
 <div style="display: inline_block">
-  <div align="left">
 ```bash
 $ whoami 
 I am a 💻 Computer Science and 🌠 Physics student at UFRJ. 
 I am very into programming, web development and cyber security.
 ```
-  </div>
   <div align="right">
     <img src="https://cdn.discordapp.com/attachments/888101596796452937/888101793312157756/download20210904002817.png" alt="Anime profile" width="100px">
   </div>
