@@ -3,12 +3,8 @@
 
 
 <div style="display: inline_block">
-  <div align="left">
-    <h2>Hello World! Abid Lohan here ✌️</h2>
-  </left>
-  <div align="right">
-    <img src="https://cdn.discordapp.com/attachments/888101596796452937/888101793312157756/download20210904002817.png" alt="Anime profile" width="100px">
-  </div>
+  <h2 align="left">Hello World! Abid Lohan here ✌️</h2>
+  <img align="right" src="https://cdn.discordapp.com/attachments/888101596796452937/888101793312157756/download20210904002817.png" alt="Anime profile" width="100px">
 </div>
 
 ```bash
