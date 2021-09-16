@@ -15,9 +15,10 @@ I am very into programming, web development and cyber security.
 ```
 
 ### Web Development Technologies
+![alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg "HTML 5")
 <div style="display: inline_block">
  <a href="#">
-  ![alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg "HTML 5")
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML 5" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS 3" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="ECMAScript" width="40px">
