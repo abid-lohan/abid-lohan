@@ -1,8 +1,9 @@
 <!-- Insert a banner here -->
 
 <h2>Hi ✌️ Abid Lohan here!</h2>
-```
-$ whoami 
+
+```bash
+whoami 
 I'm a 💻Computer Science and 🌠Physics student at UFRJ. 
 I'm very into programming in general, web development and cyber security.
 ```
