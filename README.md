@@ -5,7 +5,7 @@
 ```bash
 $ whoami 
 I'm a 💻Computer Science and 🌠Physics student at UFRJ. 
-I'm very into programming in general, web development and cyber security.
+I'm very into programming, web development and cyber security.
 ```
 
 ### Web Development Technologies
@@ -42,6 +42,10 @@ I'm very into programming in general, web development and cyber security.
    <img src="https://img.shields.io/badge/Abid%20Lohan%233574-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
+
+<!--
+Insert currently studying here
+-->
 
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abid-lohan&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
