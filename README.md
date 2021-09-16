@@ -1,5 +1,6 @@
 <!-- <img src="https://c.tenor.com/HQuBivfl9Z0AAAAC/error-glitch.gif" alt="Banner error" height="150px" width="498px" style="object-fit:cover;"> -->
 
+<div align="left">
 <h2>Hello World! Abid Lohan here ✌️</h2>
 
 ```bash
@@ -7,6 +8,10 @@ $ whoami
 I am a 💻 Computer Science and 🌠 Physics student at UFRJ. 
 I am very into programming, web development and cyber security.
 ```
+</div>
+<div align="right">
+  <img src="https://cdn.discordapp.com/attachments/888101596796452937/888101793312157756/download20210904002817.png" alt="Anime profile">
+</div>
 
 ### Web Development Technologies
 <div style="display: inline_block">
