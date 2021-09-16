@@ -9,6 +9,7 @@
 
 ```bash
 $ whoami 
+
 I am a 💻 Computer Science and 🌠 Physics student at UFRJ. 
 I am very into programming, web development and cyber security.
 ```
