@@ -4,7 +4,7 @@
 
 <div style="display: inline_block">
   <h2 align="left">Hello World! Abid Lohan Here ✌️</h2>
-  <img align="right" src="https://cdn.discordapp.com/attachments/888101596796452937/888101793312157756/download20210904002817.png" alt="Anime profile" width="110px">
+  <img align="right" src="https://cdn.discordapp.com/attachments/888101596796452937/888109196720107560/download20210904140842.png" alt="Anime profile" width="110px">
 </div>
 
 ```bash
