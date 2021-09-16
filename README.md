@@ -3,7 +3,7 @@
 <h2>Hi ✌️ Abid Lohan here!</h2>
 
 ```bash
-whoami 
+$ whoami 
 I'm a 💻Computer Science and 🌠Physics student at UFRJ. 
 I'm very into programming in general, web development and cyber security.
 ```
