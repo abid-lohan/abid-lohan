@@ -1,5 +1,4 @@
-## Hello World
-### Abid Lohan here ✌️
+## Hello World! I'm Abid Lohan.
 
 <img src="https://cdn.discordapp.com/attachments/888101596796452937/888111742658420777/ezgif.com-gif-maker.gif" alt="Banner error" width="100%">
 
