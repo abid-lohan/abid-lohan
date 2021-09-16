@@ -2,8 +2,10 @@
 
 <h2>Hi ✌️ Abid Lohan here!</h2>
 
-### $whoami
-> I'm a 💻Computer Science and 🌠Physics student at UFRJ.
+> $ whoami 
+<br>
+> I'm a 💻Computer Science and 🌠Physics student at UFRJ. 
+<br>
 > I'm very into programming in general, web development and cyber security.
 
 ### Web Development Technologies
@@ -30,8 +32,12 @@
  
 ### Social
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+  <a href="https://www.linkedin.com/in/abid-lohan-457381215/">
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://codepen.io/abid-lohan">
+   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+  </a>
   <img src="https://img.shields.io/badge/Abid%20Lohan%233574-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 </div>
 
