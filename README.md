@@ -4,8 +4,8 @@
 
 ```bash
 $ whoami 
-I'm a 💻Computer Science and 🌠Physics student at UFRJ. 
-I'm very into programming, web development and cyber security.
+I am a 💻 Computer Science and 🌠 Physics student at UFRJ. 
+I am very into programming, web development and cyber security.
 ```
 
 ### Web Development Technologies
