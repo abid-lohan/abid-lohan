@@ -1,7 +1,8 @@
+## Hello World! Abid Lohan Here ✌️
+
 <img src="https://cdn.discordapp.com/attachments/888101596796452937/888111742658420777/ezgif.com-gif-maker.gif" alt="Banner error" width="100%">
 
 <div style="display: inline_block">
-  <h2 align="left">Hello World! Abid Lohan Here ✌️</h2>
   <img align="right" src="https://cdn.discordapp.com/attachments/888101596796452937/888109196720107560/download20210904140842.png" alt="Anime profile" width="110px">
 </div>
 
