@@ -3,7 +3,7 @@
 <h2>Hello World! Abid Lohan here ✌️</h2>
 
 <div style="display: inline_block">
-  <div align="left" width="400px">
+  <div align="left">
 ```bash
 $ whoami 
 I am a 💻 Computer Science and 🌠 Physics student at UFRJ. 
