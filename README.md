@@ -1,6 +1,6 @@
-<h1>Hi, Abid Lohan here!</h1>
+<h2>Hi ✌️ Abid Lohan here!</h2>
 
-<h2>Web Development Technologies</h2>
+### Web Development Technologies
 <div style="display: inline_block">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML 5" width="40px">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS 3" width="40px">
@@ -14,7 +14,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="40px">
 </div>
 
-<h2>Other Technologies</h2>
+## Other Technologies
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" alt="After Effects" width="40px">
