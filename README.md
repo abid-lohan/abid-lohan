@@ -46,7 +46,7 @@ I am very into programming, web development, graphical design and cyber security
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTex" width="40px"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid-lohan&layout=compact&langs_count=7&theme=codeSTACKr&count_private=true&include_all_commits=true" style="margin:20px 0"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid-lohan&layout=compact&langs_count=7&theme=codeSTACKr&count_private=true&include_all_commits=true" style="margin-top:20px; margin-bottom:20px;"/>
 
 ### Social
 <div style="display: inline_block">
