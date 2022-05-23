@@ -12,7 +12,7 @@
 $ whoami 
 
 💻 Computer Science and 🌠 Physics student at UFRJ. 
-I am very into programming, web development, graphical design and cyber security.
+I am very into programming, web development, graphical design and cybersecurity.
 ```
 
 ### Web Development Technologies
