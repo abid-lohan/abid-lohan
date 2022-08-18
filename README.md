@@ -12,7 +12,7 @@
 $ whoami 
 
 💻 Computer Science and 🌠 Physics student at UFRJ. 
-I am very into programming, web development, graphic design and cybersecurity.
+I am very into programming, web development, graphical design and cyber security.
 ```
 
 ### Web Development Technologies
@@ -35,6 +35,8 @@ I am very into programming, web development, graphic design and cybersecurity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Cpp" width="40px"/>
+          
 </div>
 
 ### Micellaneous
@@ -51,7 +53,7 @@ I am very into programming, web development, graphic design and cybersecurity.
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid-lohan&layout=compact&langs_count=7&theme=codeSTACKr&count_private=true&include_all_commits=true" style="margin-bottom:20px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid-lohan&layout=compact&langs_count=10&hide=css&theme=codeSTACKr&count_private=true&include_all_commits=true" style="margin-bottom:20px;"/>
 
 ### Social
 <div style="display: inline_block">
