@@ -11,8 +11,8 @@
 ```bash
 $ whoami 
 
-💻 Computer Science and 🌠 Physics student at UFRJ. 
-I am very into programming, web development, graphical design and cyber security.
+💻 Computer Science at UFRJ. 
+I am very into programming, graphical design and cyber security.
 ```
 
 ### Web Development Technologies
