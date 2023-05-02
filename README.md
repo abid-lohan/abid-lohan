@@ -1,4 +1,8 @@
-## Hello World! I'm **Abid Lohan**.
+# Hello World! I'm **Abid Lohan**.
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/888101596796452937/888111742658420777/ezgif.com-gif-maker.gif" alt="Banner error" width="100%">
+</p>
 
 <div style="display: inline_block">
   <img align="left" src="https://cdn.discordapp.com/attachments/888101596796452937/888116491558481962/download20210904143728.png" alt="Anime profile" width="125px">
@@ -11,6 +15,9 @@ $ whoami
 🔴 Red team.
 🏴‍☠️ CTF player.
 ```
+
+
+
 ## My Main Skills
 
 <div style="display: inline_block">
@@ -35,12 +42,33 @@ $ whoami
 📌 Graphical design <br>
 
 <br>
+
+## My Activities
+
+<div style="display: inline_block">
+
+<a href="https://www.youtube.com/@gris-ufrj270" target="_blank">
+  <img src="https://ctftime.org/media/cache/64/e2/64e2655216e3fec0218f8557f0b26d54.png" alt="GRIS" width="80px">
+</a>
+
+<a href="https://app.hackthebox.com/users/660141" target="_blank">
+  <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBITEhcUEhUXFRMSEhcXEhsbFBsSGBsbGBQbGBcUFxgbHzolGx0pHhoXJTklKi4zMzMzGiI5S0YxPSwyMzABCwsLEA4QHhISHjUqIik1MjIyODIyMjI2MjIyMjIyMjI7MjIyMjI0MjIyMjIyMjQyMjIyMjIyMjIyMjIyMjIyMv/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcBAwUEAgj/xAA9EAACAQICBQcKBQQDAQAAAAAAAQIDEQQFBiExYXESEyJBUXKzByMyNDV0gZGhskJic7HBM0NTglJj0fD/xAAbAQEAAgMBAQAAAAAAAAAAAAAAAwYBAgQFB//EADYRAAIBAgMFBQcDBAMAAAAAAAABAgMEBRExISJBUYEyYXGRwQYSobHC0fA0cnMjNVPhE0JS/9oADAMBAAIRAxEAPwCrQATEYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB78pyXEYuXJoU3Kz6Un0YR70v4V2WPkeguGopSrpV6nXyo3pLcoP0uL+hwXuJULRb7zlyWv+jWU0iqQW7nGhWDrx83CNCol0ZU4qMf9oLU/oyuM70dxOEfnYXp36M49KD7Lv8AC9z+ppZYpQutkXlLk/Tn0EZpnJAB6RsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP5dl/4S3INBa9a08RejTeu1vOyW6L9H/bXuILi5pW8feqyyX5w4htLUi2Fw1SrNU6cJVJy2RiuU+O5b3qJ9kHk+WqpjHd7ebhLVwnNbeEfmyZ5TlFDCw5FCmoL8T2ylvlJ62e7/wCZVb7H6lTdobq58X9iCVTPQ1YehCnBQpxjCEVaMYpRS4JDE4inTg51JxhCO2UmopfFkWz/AE5oULwoWrVFdXT81F/mkvS4R+aK4zbOK+Kny69Rys+jH0YR7sVqXHaQ2WC17jfqbse/V9PViNNvay7cFjaVaPLpVI1IXteMlJX7H2G6cFJOMknFqzTV012NPaUPl+YVcPPnKNSVOfW09TXZJPVJbmWFkGn9OpaGKSpT/wAivzb49cP24G97gVajvUd6PxXTj4ryEqbWhnP9Aac71MI1Snt5t/033euH7bkV5mGX1sPPm61OVOfUmtT3xktUlvTL4hNSSlFqUZK8WndNdqa2o0Y/AUq8HTrU41Ivqa2b01ri96FljlWhuVt6PxXnr18xGo1qUKCb59oBUp3nhG6sP8cmucXdeyXDbxITUg4txknGUXaSacWn2NPWmWu2u6NzH3qUs/muhMmnoYAB0mQAAAAAAAAAAAAAAAAAAAAAdrIdGMTjLSpx5FK+upK6jv5K2zfD5olGg+ilGdGGJrx5xzcubg/QSjJx5Uo/ibab16thYCSWpaklZLZ8Cu4jjqoydKis5LY29E+5cX47PEjlUy2I4WQ6K4bB2lGPOVeupNJv/RbILhr3neNeIrRpwlUm+TCnFym+xRV2/kiss+09q1bwwqdCm9sn/Va3W1Q+F3vR4NC1ucRqOWefNvh+ckRJORN890mw2EVpy5VW2qnCznxf/Fb2Vpn2lmJxd4t81Sf9uDdmvzy2y+i3HBk2229bbbbettva2+tgtdlhFC1yl2pc36Lh8+8mjBIAA9U3AAAOtkmkWJwb81O9O/Spy6UH22W2L3r6ll6P6X4bF2g3zVZ/25Pa/wDrlslw1PcU8Ya7Tzb3CqF1taylzXrz+feaygpH6EOTnej2GxcfOw6aVo1I9Gcfj1rc7orvINNsRh7Qq3r0lqtJ+cj3ZvbwfzRZ+WY+GIpQrU23Corq6s1ZtOLXammvgVO5sbnD5qefhJfmfmQSi47Sqs/0OxOFvOPnaK18uK1xX549XFXXAjaP0IQ3TDRShOlVr0oqnWpwlN8nVGfJTlJOOzlNX1rrte57Fhj3vNU7hbea9V6ryJI1ODKuBgyWYlAAAAAAAAAAAAAAAAAALl0I9n0O7L72d04WhHs+h3X98jp5nmFPDUp1qrahTSvZXbbaSSXa20j5xdQc7qcY6uTS8zll2j0zgpJqSTTTTTV009qZA8/8n0XeeDai9rpSfRfcltjwergSfJNIsNi15qfTXpU5dGa3261vV0dc2o3FzY1GlnF8U+PivUJuJQWMwdWlN06sJU5rbGSs+K6mt61GkvfM8roYmHIr01OPV1SjvjJa4vgVzpBoJWpXqYZutSWvk287FcF6fw17i12WN0a+Uam7L4Prw8GTRqJkOAkmm09TTs09TTW1NdTB7RIAD5APo+qNGc5KFOMpzk7RjFOTfBIkuQaF4jE2nUvRpPrlHpyX5YPZxf1LJybIsPhI2owtJ+lN9KcuMnsW5WR497jNC33Y70uS06v7ZmkqiRC8g8n8pWqYx8iO1U4y6T3Tl+Hgte9FhYbDQpwjTpxUIQVoxSskjac/Ns5w+Fhyq9RRv6MfSnLuxWt8diKpcXlxfTSlt5JaeXqyFycj3njzr1av7vV8NmrI84pYunzlLlJKbhJSVpKSSdn1bGnq7TbnXq1f3er4bOV05U6nuTWTT2mNGUQthkwthk+nPU6gADAAAAAAAAAAAAAAAALl0I9n0O4/vkaPKF7Oq9+l40TfoR7Pod1/ezR5Q/Z1Xv0fGiUGH9yX8n1HOu31KipzcWpRbjKLvFpuLT7U1rTJtkGn9SnaGMXOw2KpFecXeWya+T4kIBdbm0pXMfdqrP5rrqTtJ6l84DMKVemqlGpGpB9aex9klti9zPUULl+Pq0KnOUZypzXWntXZJbGtzLCyDT+FS0MWlTn/AJF/Te+S2w+q4FUvsCq0t6lvR+Plx6eRDKm1od3PdF8Ni1eUeRUtqqQspblLqkuPwsVnn+iuJwd5SXOUl/cgnZd9bYftvLlhNSSlFpxkrpp3TXan1mWc1li1e13e1Hk+HhxXy7jEZuJSOSaP4jGPzUPN3tKpLVTXbr/E9y+hZej+h+GwtpyXO1l+OSVov/rh+Hi7veSKMUlZJJLYlqSMm97jNe4zjHdjyXq/tkJTbMmrE4mFKDnUnGEI+lKTUUviyLZ/p1QoXhQtWqLU2nanF75L0muxfNFb5rm9fFT5deo5W9GOyEd0Y9X7m9lgdavvVN2PxfT7mY02yZ5/5QXrhg1udScfDg/3l8iB4nEVKs3OpKU5yfSlJuTfxf7GsFttbKjaxypxy7+L6kyikWd5LvVavvT8GkSjOvVq/u9Xw2RfyXeq1fen4NIlGderV/d6vhso+I/rp/uIJdsohbDJhbDJ9DlqdIABgwAAAAAAAAAAAAAAAXLoR7Pod1/ezR5Q/Z1Xv0fGib9CPZ9Duv72aPKH7Oq9+j40Sgw/uS/k+o512+pUIAL8dAAAB1cj0hxODfmp3pt3lTl0oPtsvwvevqXDk2PWIw9Kso8jnI8rk3vZ3s1fr1plElz6F+z8P3H90ite0VCmqcaqW83lnzWTIqqWR2MRVVOnOb1qEJSdttopuy+RTmfaV4nGXjJ81Sf9uD1Nfnltn+24tzNfV636FXw2UMtnwIfZ2hTn785LNprLuMUlxBkAtZMAAAWd5LvVavvT8GkSjOvVq/u9Xw2RfyXeq1fen4NIlGderV/d6vhs+e4j+un+455dsohbDJhbDJ9DlqdIABgwAAAAAAAAAAAAAAAXLoR7Pod1/fI0eUL2dV79Hxom/Qj2fQ7j+9mdNMHUrYGrTpxc5vkSUVtajUUnbtdk9XWUCLSxHN/5PqOdPKfUpkCUWm01Zp2aas01tTXUwX86AAAAXNoX7Pw/6b+5lMlzaF+z8P8Apv7mV/2k/TR/d9MiOrodLNvV636FXw2UKti4F9Zt6vW/Qq+GyhVsXAi9muxU8V8mYpaM+gAWUlABhsAs/wAl3qtX3p+DSJRnXq1f3er4bOB5OcDUpYSfOQcHUrucFJWfJ5uEU2nrV3Fnfzr1av7vV8Nnz3EGneza/wDRzy7ZRC2GTC2GT6HLU6QADBgAAAAAAAAAAAAAAAtLyf53RnhoYaUlGtT5SUW7cuLk5KUO3U7NbdRMT8+fxs/9Jdo/p1XoWhiL16S62/OxW6T9PhL5lXxLA5TnKrQeee1p+n2ZFKnxRPM90aw2MV6keTVtaNSPRmuy/wDyW5/QrTPtEsThLya52kv7kFs78dsfqt5a2VZvQxUOXQqKaXpLZKO6UXrR7Ty7XE7mxl/xyWaX/V57PDivzYaKbifns+i1s/0Hw9e86NqNV69S83J/mitnFfUrjNsmxGFnya9Nxu+jJdKEu7JavhtLZZYlQu1lF5S5PX7MmjNM8Bc2hfs/D/pv7mUyXNoX7Pw/6b+5nn+0f6aP7vpka1dDpZt6vW/Qq+GyhVsXAvrNvV636FXw2UKti4EXs12KnivkzFLRn0D1Zfl1bET5ujTlUl12Wpb5SeqK4lh5BoDSp2ni2qtT/gv6S49c/jq3HsXmIULRf1Ht5LX872SSklqQnI9HMTjH5uPJhfpVJdGC4dcnuRZej+iOGwlp252svxyWx/kjshx27zvwgkkopJJWSSskuxJbDRj8fSoQdStUjTgutva+xLa3uRU7zF7i7fuQ2J8Fq/F+iIJTcj0ke0wzulh8NVhKSdWpSnCEFrleUXHlNdUVe932ETz/AE/qVL08InShs5yVucfdWyHHW+BCqlSUm5SblKTvJtuTb7W3rbOzD8Bm2qlfYlw49eXhr4G0aXFnyZALaTAAAAAAAAAAAAAAAAAAAAAGzC4mpSmqlOcqc47JRdnw3rdsJ9kHlBWqnjFZ6lzkY6uM4LZxj8kV6DkurKjdRyqR8HxXUxKKlqX/AIbEQqQU6cozhJdGUWpJ/FGMTh4VYOFSMZwkrSjJKSfwZSGUZziMLPlUJuN/Si+lCXej/Ks95ZGQacYevaFa1Gq9Wt+bk/yzezg/qVO9wWvbP36e9HmtV09UQyptbTl555PU3y8HNRvtp1JNxXdnra4O/El+QYCWHwtGjNpypQtJrZdtt2+djoGThr4hXr0lSqPNJ59/mauTayZqxdHnKc4XtzlOUb7bcqLV/qV7k/k7nyr4ucVCL1Rptty4ya6K4K/AsYyYtr+tbQlGm8s9efmFJpbDzYDA0qEFTowjTgupL6t7W97N85qKcpNRjFXbbsku1t7CP5/pfhsLeCfPVl+CD2P88tkeG0rTO9IsTjH52dqd+jCPRguK2ye93+B22mEXF2/fnsT4vV+C+5mMHLaTbP8AT6nC8MIlVnsc3dU1w65/tvZXmYY+rXnzlapKpPtexboxWqK3JI8wLZZ2FG0X9NbeL4v85InjFLQAA7TIAAAAAAAAAAAAAAAAAAAAAAAAAAAMGQAd/IdLcThLRT52kv7c29S7IS2w+q3Fl5FpJhsYrU5cmpa8qcrRmt66pLeilR/Gw8m9wihc73ZlzXquPzNJQTLxzjPMPhI8qtNJv0YLpTl3Y/zsK2z/AE2xGIvCl5ik+qMvOSX5prZwXzZF5O7u9be1vWwYssFoW+9LelzenRffMRppHyfQB65uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/Z" alt="Hack The Box" width="80px">
+</a>
+
+<a href="https://ctftime.org/user/141711" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/uiZnC5tIBpejW942OXct4smbaHmSowdT5tLSi28Oeb2_pMLPCL-VJqdGIH6ZO3A951M" alt="CTF Time" width="80px">
+</a>
+
+</div>
+
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid-lohan&layout=compact&langs_count=10&hide=css&theme=codeSTACKr&count_private=true&include_all_commits=true"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid-lohan&layout=compact&langs_count=10&hide=css&theme=codeSTACKr&count_private=true&include_all_commits=true" />
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/888101596796452937/888111742658420777/ezgif.com-gif-maker.gif" alt="Banner error">
-</p>
+<br>
+
+## My Social Media
+
+<a href="https://www.linkedin.com/in/abid-lohan-457381215/" target="_blank">
+  <img src="https://img.icons8.com/?size=512&id=64154&format=png" alt="linkedin" width="80px"/>
+</a>
