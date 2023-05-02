@@ -12,47 +12,35 @@ $ whoami
 🏴‍☠️ CTF player.
 ```
 ## My Main Skills
-<div style="display:flex;justify-content:center;gap:50px;">
 
-<div>
-<ul style="list-style-type:none;">
-<li>📌 Web penetration testing</li>
-<li>📌 Reverse engineering</li>
-<li>📌 Android penetration testing</li>
-<li>📌 Game hacking</li>
-</ul>
+<div style="display: inline_block">
+  <img src="https://img.icons8.com/?size=100&id=TJtAWRO3Gpa9&format=png" alt="Cybersecurity" align="right">
 </div>
 
-<img src="https://img.icons8.com/?size=100&id=TJtAWRO3Gpa9&format=png" alt="Cybersecurity">
-
-</div>
+📌 Web penetration testing <br>
+📌 Reverse engineering <br>
+📌 Android penetration testing <br>
+📌 Game hacking <br>
 
 <br>
 
 ## My Secondary Skills
 
-<div style="display:flex;justify-content:center;gap:50px;">
-
-<div>
-<ul style="list-style-type:none;">
-<li>📌 Programming in general</li>
-<li>📌 Web development</li>
-<li>📌 Graphical design</li>
-</ul>
+<div style="display: inline_block">
+  <img src="https://img.icons8.com/?size=100&id=zR9H9QHroX8j&format=png" alt="Programming" align="right">
 </div>
 
-<img src="https://img.icons8.com/?size=100&id=zR9H9QHroX8j&format=png" alt="Programming">
-
-</div>
+📌 Programming in general <br>
+📌 Web development <br>
+📌 Graphical design <br>
 
 <br>
-
-<div style="display:flex;justify-content:center;flex-direction:row">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid-lohan&layout=compact&langs_count=10&hide=css&theme=codeSTACKr&count_private=true&include_all_commits=true"/>
-</div>
-
 <br>
 
-<p style="display:flex;justify-content:center;">
-<img src="https://cdn.discordapp.com/attachments/888101596796452937/888111742658420777/ezgif.com-gif-maker.gif" alt="Banner error">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid-lohan&layout=compact&langs_count=10&hide=css&theme=codeSTACKr&count_private=true&include_all_commits=true"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/888101596796452937/888111742658420777/ezgif.com-gif-maker.gif" alt="Banner error">
 </p>
