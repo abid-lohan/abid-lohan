@@ -1,22 +1,12 @@
 # Hello World! I'm **Abid Lohan**.
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/888101596796452937/888111742658420777/ezgif.com-gif-maker.gif" alt="Banner error" width="100%">
-</p>
-
-<div style="display: inline_block">
-  <img align="left" src="https://cdn.discordapp.com/attachments/888101596796452937/888116491558481962/download20210904143728.png" alt="Anime profile" width="125px">
-</div>
-
 ```bash
 $ whoami 
 
-💻 Computer Science student at UFRJ. Member of GRIS.
-🔴 Red team.
+💻 Computer Science at UFRJ. Member of GRIS.
+🔴 Offensive Security.
 🏴‍☠️ CTF player.
 ```
-
-
 
 ## My Main Skills
 
@@ -26,8 +16,9 @@ $ whoami
 
 📌 Web penetration testing <br>
 📌 Reverse engineering <br>
-📌 Android penetration testing <br>
+📌 Mobile penetration testing <br>
 📌 Game hacking <br>
+📌 GenAI/LLM penetration testing <br>
 
 <br>
 
@@ -51,10 +42,6 @@ $ whoami
   <img src="https://ctftime.org/media/cache/64/e2/64e2655216e3fec0218f8557f0b26d54.png" alt="GRIS" width="80px">
 </a>
 
-<a href="https://app.hackthebox.com/users/660141" target="_blank">
-  <img src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-2048x2048-vce7bnzq.png" alt="Hack The Box" width="80px">
-</a>
-
 <a href="https://ctftime.org/user/141711" target="_blank">
   <img src="https://play-lh.googleusercontent.com/uiZnC5tIBpejW942OXct4smbaHmSowdT5tLSi28Oeb2_pMLPCL-VJqdGIH6ZO3A951M" alt="CTF Time" width="80px">
 </a>
@@ -69,6 +56,6 @@ $ whoami
 
 ## My Social Media
 
-<a href="https://www.linkedin.com/in/abid-lohan-457381215/" target="_blank">
+<a href="https://www.linkedin.com/in/abid-lohan/" target="_blank">
   <img src="https://img.icons8.com/?size=512&id=64154&format=png" alt="linkedin" width="80px"/>
 </a>
