@@ -1,61 +1,48 @@
-# Hello World! I'm **Abid Lohan**.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=d6182b&center=true&vCenter=true&width=600&lines=I'm+Abid+Lohan;aka+ruhptura;Offensive+Security+Analyst" alt="Typing SVG" />
+</div>
+
+### 👨‍💻 `whoami`
 
 ```bash
-$ whoami 
+$ cat /etc/passwd | grep ruhptura
+ruhptura:x:1000:1000:Abid Lohan, Offensive Security Analyst:/home/ruhptura:/bin/zsh
 
-💻 Computer Science at UFRJ. Member of GRIS.
-🔴 Offensive Security.
-🏴‍☠️ CTF player.
+$ groups
+gris btg-pactual pwn-de-queijo
 ```
 
-## My Main Skills
-
-<div style="display: inline_block">
-  <img src="https://img.icons8.com/?size=100&id=TJtAWRO3Gpa9&format=png" alt="Cybersecurity" align="right">
-</div>
-
-📌 Web penetration testing <br>
-📌 Reverse engineering <br>
-📌 Mobile penetration testing <br>
-📌 Game hacking <br>
-📌 GenAI/LLM penetration testing <br>
-
 <br>
 
-## My Secondary Skills
+### ☠️ `apktool d main-skills.apk`
 
-<div style="display: inline_block">
-  <img src="https://img.icons8.com/?size=100&id=zR9H9QHroX8j&format=png" alt="Programming" align="right">
-</div>
-
-📌 Programming in general <br>
-📌 Web development <br>
-📌 Graphical design <br>
-
-<br>
-
-## My Activities
-
-<div style="display: inline_block">
-
-<a href="https://www.youtube.com/@gris-ufrj270" target="_blank">
-  <img src="https://ctftime.org/media/cache/64/e2/64e2655216e3fec0218f8557f0b26d54.png" alt="GRIS" width="80px">
-</a>
-
-<a href="https://ctftime.org/user/141711" target="_blank">
-  <img src="https://play-lh.googleusercontent.com/uiZnC5tIBpejW942OXct4smbaHmSowdT5tLSi28Oeb2_pMLPCL-VJqdGIH6ZO3A951M" alt="CTF Time" width="80px">
-</a>
-
+<div align="left">
+  <img src="https://img.shields.io/badge/Mobile-000000?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=circuitverse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game_Hacking-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abid-lohan&layout=compact&langs_count=10&hide=css&theme=codeSTACKr&count_private=true&include_all_commits=true" />
+### 📊 `htop`
+
+<div align="center">
+  <img src="https://github-readme-stats-two-umber-97.vercel.app/api/top-langs/?username=abid-lohan&layout=compact&langs_count=10&hide=css&theme=radical&count_private=true&include_all_commits=true" alt="Top Languages" />
+</div>
 
 <br>
 
-## My Social Media
+### 🛜 `nmap -sV 127.0.0.1`
 
-<a href="https://www.linkedin.com/in/abid-lohan/" target="_blank">
-  <img src="https://img.icons8.com/?size=512&id=64154&format=png" alt="linkedin" width="80px"/>
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/abid-lohan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ctftime.org/user/141711" target="_blank">
+    <img src="https://img.shields.io/badge/CTFTime-ruhptura-FDDA24?style=for-the-badge&logo=target&logoColor=white" alt="CTF Time" />
+  </a>
+  <a href="https://grisufrj.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GRIS_BLOG-333?style=for-the-badge&logo=terminal&logoColor=white" alt="GRIS BLOG" />
+  </a>
+</div>
