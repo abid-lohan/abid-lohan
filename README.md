@@ -9,7 +9,7 @@ $ cat /etc/passwd | grep ruhptura
 ruhptura:x:1000:1000:Abid Lohan, Offensive Security Analyst:/home/ruhptura:/bin/zsh
 
 $ groups
-gris btg-pactual pwn-de-queijo
+gris bugcrowd pwn-de-queijo
 ```
 
 <br>
